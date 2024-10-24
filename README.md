@@ -1,6 +1,6 @@
 # Alpha Vantage Chart
 
-This project fetches stock data from the Alpha Vantage API and displays it in a candlestick chart with options for selecting different intervals.
+This project fetches stock data from the Alpha Vantage API and displays it in a candlestick chart with options for selecting different intervals. You can see live demo [here](https://alpha-vantage-chart.vercel.app/)
 
 ## Steps to Run the Project Locally
 
